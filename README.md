@@ -1,5 +1,7 @@
 # URL Shortener for HIS Community
 
+[![](/static/flowchart.png)](flow_chart)
+
 #### `objectives`
 
 - [ ] create yugabyte cluster (free tier)
