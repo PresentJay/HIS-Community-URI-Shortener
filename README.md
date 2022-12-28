@@ -1,12 +1,15 @@
-# URL Shortner for HIS Community
+# URL Shortener for HIS Community
 
 #### `objectives`
 
 - [ ] create yugabyte cluster (free tier)
 - [ ] connect to yugabyte cluster and configure Data Model
-- [ ] serve enroll / call URL API
+- [ ] Implement & serve enroll / call URL API
+- [ ] create simple enroll & confirm UI
 - [ ] deploy on cloud
 - [ ] test
+- [ ] add strategy that clear urls by Least Frequent Used
+- [ ] implement pipeline that running strategy above when database usage is covered about 85%~90% (or by other configuration)
 
 <br>
 
